@@ -494,12 +494,12 @@ color:#ccc;
     font-size:30px
     }
     #ipad {
-    margin-left: 15%;
+    margin-left: 10%;
     }
     .testi blockquote p {
     line-height:normal;
     }    
-    #header1{
+    #header1, #header2 {
     margin-left:0;
     }
 }
